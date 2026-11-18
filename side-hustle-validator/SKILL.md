@@ -1,6 +1,6 @@
 ---
 name: side-hustle-validator
-description: Think and launch like Chris Koerner: find side-business ideas, pick one, score it, run a 2-hour demand test, copy competitors, launch, price, sell, scale or kill — plus his mindset for overcoming fear.
+description: "Think and launch like Chris Koerner: find side-business ideas, pick one, score it, run a 2-hour demand test, copy competitors, launch, price, sell, scale or kill — plus his mindset for overcoming fear."
 ---
 
 # Side-hustle playbook (Koerner method)
